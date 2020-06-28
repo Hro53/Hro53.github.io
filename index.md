@@ -7,6 +7,6 @@ She's got a charming shape and a wonderful sound in her voice.
 * she's got a wooden flavoured skin
 * she's got 6 strings of steel
 * she's got a wonderful warm sound
-As Georgie said:
+## As Georgie said:
 > While my guitar gently weeps
-<img scr="https://d1aeri3ty3izns.cloudfront.net/media/44/447028/1200/preview.jpg"/>
+<img scr="https://d1aeri3ty3izns.cloudfront.net/media/44/447028/1200/preview.jpg">
